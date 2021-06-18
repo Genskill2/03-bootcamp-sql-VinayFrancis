@@ -9,7 +9,7 @@
  
  INSERT INTO books values (1,"The C Programming Language",1);
  INSERT INTO books values (2,"The Go Programming Language",1);
- INSERT INTO books values (3,"The Unix Programming Environment",1);
+ INSERT INTO books values (3,"The UNIX Programming Environment",1);
  INSERT INTO books values (4,"Cryptonomicon",2);
  INSERT INTO books values (5,"Deep Work",3);
  INSERT INTO books values (6,"Atomic Habits",4);
